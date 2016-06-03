@@ -1,8 +1,8 @@
 # myOctocat
 オリジナルoctocat
 
-# あっ！　やせいの
-# octocatemonが　とびだしてきた！
+あっ！　やせいの
+octocatemonが　とびだしてきた！
 
 
 コンセプト▼
