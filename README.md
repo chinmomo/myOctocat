@@ -1,6 +1,9 @@
 # myOctocat
 オリジナルoctocat
 
+* octocatoemon
+
+
 コンセプト▼
 
 octocatを日本を代表するアニメであるドラえもんのデザインにし、世界中で人気のあるポケモン風のドット絵で描いた。
